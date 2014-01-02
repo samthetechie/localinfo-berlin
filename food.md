@@ -32,17 +32,21 @@ Kiepert & Kutzner
 Veganz
   * What? a  bit expensive, but has everything from vitamins and cookbooks to a  large selection of vegan ice cream, frozen pizza, chocolate, etc.
   * Where? Schivelbeiner Straße 34, 10439
+
 alnatura
   * What? some good stuff, a bit random - don't get aloe vera juice
+
 various farmers markets
   * What? good way to get very fresh vegetables when they're on
   * Where? ...
   * When? ...
+
 Asia Mekong
   * What? Fairly good source for Asian food - from fresh leaves and spices through frozen and canned goods.
   * Where? Henriette-Herz-Platz 1, 10178 (Right off Hackescher markt.) 
+
 Restaurants
-=========
+===========
   * Where? in mitte unless otherwise stated
 
 Falafals: Yarok; Dada falafa
