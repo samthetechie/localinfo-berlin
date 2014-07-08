@@ -4,3 +4,5 @@
   * Chaos Computer Club Berlin
   * IN-Berlin
   * Raumfahrtagentur
+  * Thinkfarm
+  * Buchhandlung
