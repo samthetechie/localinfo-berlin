@@ -55,7 +55,7 @@ Indian food: usually disappointing compared to the UK. I tried India 1 (Scharnwe
 
 Vietnamese: Fam Dang, Chay Viet (Brunnenstr. 164 - it's entirely vegetarian), Coco (Rosenthaler Str. 2 - Vietnamese subs)
 
-Chén Chè (teahouse + desserts - skip the mains)
+Chén Chè (teahouse + desserts - get the "Reistafel", a daily changing menu that comes in multiple small bowls)
 
 Ethiopian (non-mitte, a bit pricier): Blue Nile, Bejte
 
@@ -66,6 +66,8 @@ Misc (been there a few times, tasty): Gobento (Japanese), Marral (Mesopotamian)
 Junk vegan food (non-mitte; vegan burgers, etc): Yellow Sunshine, Vego foodworld
 
 Cafe (non-mitte): Cafe Morgenrot
+
+Vietnames soups: Chi Chu (great soups with plenty of vegetables and fresh herbs plate)
 
 My favorite Berlin restaurants
 ==============================
