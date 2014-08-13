@@ -1,10 +1,10 @@
 TODO: change to csv
 
-  * 3D Berlin Headquarter: 
-  * AFRA: 
-  * C-base: https://bit.ly/c-base-map
-  * Chaos Computer Club Berlin: https://berlin.ccc.de/wiki/Hauptseite
-  * IN-Berlin: 
-  * Raumfahrtagentur: 
-  * Thinkfarm: http://goo.gl/maps/KJpXY
-  * Buchhandlung: http://caffetteria-buchhandlung.kunstzeit.eu/
+ 3D Berlin Headquarter, url, map
+ AFRA, url, map
+ C-base, https://www.c-base.org/,  https://bit.ly/c-base-map
+ Chaos Computer Club Berlin, https://berlin.ccc.de/wiki/Hauptseite, map
+ IN-Berlin, url, map
+ Raumfahrtagentur, url, map
+ Thinkfarm,http://thinkfarm.de/, http://goo.gl/maps/KJpXY
+ Buchhandlung, http://caffetteria-buchhandlung.kunstzeit.eu/, 
